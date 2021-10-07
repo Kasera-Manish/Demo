@@ -1,8 +1,10 @@
 body {
     background-color: aqua;
-    background-image: url("assets/manish\(apply_pic\).jpg");
-    background-repeat: repeat-x;
-    background-position-y: center;
+}
+
+img {
+    height: 300px;
+    width: 300px;
 }
 
 h1 {
